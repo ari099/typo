@@ -4,7 +4,7 @@ import sys
 from typo import Typo
 
 def main():
-   Typo() # Typo application object
+   Typo("TEST FILE") # Typo application object
 
 if __name__ == "__main__":
    main()
